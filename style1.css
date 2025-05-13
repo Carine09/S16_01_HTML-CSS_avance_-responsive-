@@ -34,3 +34,15 @@ main {
   margin: 1rem auto;
   width: 80vw;
 }
+
+/************************ RESPONSIVE DESIGN ***************************/
+
+@media (max-width: 600px) {
+  /* style appliqué aux téléphones mobiles */
+
+}
+
+@media (max-width: 1024px) {
+  /* style appliqué aux tablettes */
+
+}
